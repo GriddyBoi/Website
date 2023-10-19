@@ -1,7 +1,10 @@
 .header {
-    font-size: 12px;
+    font-size: 24px;
     border: 3px solid;
-
+    text-align: center;
+    color: aqua;
+    background-color: gray;
+    font-family: 'Times New Roman', Times, serif;
 }
 body {
     text-align: center;
