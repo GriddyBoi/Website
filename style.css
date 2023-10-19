@@ -1,8 +1,15 @@
 .header {
+    
+    height: 100px;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: bold;
     font-size: 24px;
+    border-radius: 10px;
     border: 3px solid;
     text-align: center;
-    color: aqua;
+    color: black;
     border-color: black;
     background-color: gray;
     font-family: 'Times New Roman', Times, serif;
