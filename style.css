@@ -1,5 +1,5 @@
 html {
-    background: linear-gradient(to bottom, #100b08 0%, #5c12a7d6 75%, #440977 100%);
+    background: linear-gradient(to bottom, #100b08 0%, #1480d8d6 75%, #092394 100%);
     width: 100%;
     height: 100%;
   }
@@ -16,9 +16,9 @@ html {
     border: 3px solid;
     text-align: center;
     text-wrap: balance;
-    color: rgb(102, 8, 160);
-    border-color: rgb(94, 41, 134);
-    background-color: rgb(2, 2, 15);
+    color: rgb(33, 61, 223);
+    border-color: rgb(16, 177, 226);
+    background-color: rgb(3, 3, 75);
     font-family: 'Times New Roman', Times, serif;
 }
 body {
