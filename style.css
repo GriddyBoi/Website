@@ -1,7 +1,14 @@
+
 html {
-    background: linear-gradient(to bottom, #100b08 0%, #1480d8d6 75%, #092394 100%);
+    --cyan: #B6FFFA;
+    --dcyan: #98E4FF;
+    --dblue: #80B3FF;
+    --purple: #687EFF;
+    
+    background: linear-gradient(to bottom, #100b08 0%, var(--cyan) 75%, var(--dcyan) 100%);
     width: 100%;
     height: 100%;
+    
   }
 .header {
     
@@ -16,9 +23,9 @@ html {
     border: 3px solid;
     text-align: center;
     text-wrap: balance;
-    color: rgb(33, 61, 223);
-    border-color: rgb(16, 177, 226);
-    background-color: rgb(3, 3, 75);
+    color: var(--cyan);
+    border-color: var(--dblue);
+    background-color: var(--purple);
     font-family: 'Times New Roman', Times, serif;
 }
 body {
